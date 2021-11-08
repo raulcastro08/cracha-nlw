@@ -3,8 +3,8 @@ function showMeShomthing() {
 }
 const LinksSocialMedia = {
   github: "raulcastro08",
-  youtube: "UCTECbebwtaXbM9SbOupJeEQ",
-  facebook: "raul08",
+  linkedin: "in/raul-castro-a30826137",
+  facebook: "#",
   instagram: "raulcs08",
   twitter: "Raull08",
 };
